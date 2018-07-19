@@ -1,0 +1,56 @@
+body {
+  line-height: 40px;
+  font-family: 'Gaegu', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+li {
+  float: left;
+
+}
+
+li a {
+  display: block;
+  color: #832BEC;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:link {
+  color: #832BEC;
+}
+
+h2 {
+  font-size: 60px;
+  text-decoration: line-through;
+}
+
+#input {
+  border-radius: 25px;
+}
+
+h3 {
+  font-style: 90px;
+  color: #832BEC;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+}
+
+input {
+  font-size: 25px;
+  color: #832BEC;
+  font-family: 'Gaegu', cursive;
+}
